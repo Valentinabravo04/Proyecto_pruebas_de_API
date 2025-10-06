@@ -1,5 +1,5 @@
-### 📌 Proyecto pruebas de APIS 
-### 💻 Pruebas de APIS 💻
+### 📌 Proyecto pruebas de API
+### 💻 Pruebas de API 💻
 Este proyecto se trata de analizar los requisitos para la nueva funcionalidad del back-end de la aplicación Urban.Grocers.
 El área de desarrollo ha agregado una nueva función en la API de Urban.Grocers, así que debemos probar una nueva versión de la API.
 
