@@ -1,13 +1,17 @@
-### 📌 Proyecto pruebas de API
+### 📌 Proyecto Validación de API Urban Grocers
 ### 💻 Pruebas de API 💻
-Este proyecto se trata de analizar los requisitos para la nueva funcionalidad del back-end de la aplicación Urban.Grocers.
+Este proyecto se trata de analizar los requisitos para la nueva funcionalidad del back-end de la aplicación Urban Grocers.
 El área de desarrollo ha agregado una nueva función en la API de Urban.Grocers, así que debemos probar una nueva versión de la API.
 
-1️⃣ Estudiar la documentación de la API en Apidoc y los requisitos del back-end.
+Este proyecto tiene como objetivo principal ejecutar un proceso de aseguramiento de calidad sobre la nueva funcionalidad incorporada en el back-end de la aplicación Urban Grocers, mediante pruebas exhaustivas de la API actualizada. El propósito es verificar que la implementación cumpla con los requisitos funcionales definidos por el equipo de desarrollo y garantizar su estabilidad antes del despliegue.
 
-2️⃣ Diseñar pruebas en una lista de comprobación para cubrir la funcionalidad que nos han dado para probar.
+Actividades principales:
 
-3️⃣ Realizar las Prueba la API a través de Postman y envía informes de errores a Jira si es necesario.
+📌Revisión de documentación técnica: Analizar la especificación de la nueva funcionalidad en la API, utilizando la documentación disponible en Apidoc, junto con los requisitos funcionales proporcionados por el equipo de desarrollo.
+
+📌Diseño de casos de prueba: Elaborar una lista de verificación (checklist) que cubra los escenarios clave de la funcionalidad a validar, incluyendo pruebas positivas, negativas y de borde, con foco en la integridad de los datos, respuestas esperadas y manejo de errores.
+
+📌Ejecución de pruebas y gestión de incidencias: Realizar pruebas manuales utilizando Postman para validar los endpoints correspondientes. Documentar los resultados y reportar cualquier desviación o bug identificado a través de Jira, siguiendo el flujo de gestión de incidencias establecido.
 
 ### 🚀 Tecnologías utilizadas:
 
